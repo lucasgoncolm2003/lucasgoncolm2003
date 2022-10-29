@@ -1,6 +1,16 @@
 # Lucas Gonçalves de Oliveira Martins
 ## 🖥️ - Técnico em Informática
 ## ⚡ - Graduando em Engenharia Elétrica
+## 🔰 - Cabo da Reserva do Exército
+
+#### ---> Meu nome é Lucas e sou Técnico em Informática e atualmente faço o curso de graduação em Engenharia Elétrica. Busco aplicar os conhecimentos matemáticos e em engenharia na área da programação, área na qual me dedico a estudar e aprimorar meus conhecimentos cada vez mais. Alguns dos projetos que fiz trabalham com:
+#### • Machine Learning ou Aprendizagem de Máquina (ML).
+#### • Inteligência Artificial ou A.I.
+#### • Data Mining ou Mineração de Dados.
+#### • Ciência e Análise de Dados.
+#### • Construção e Desenvolvimento de Gráficos.
+#### • Álgebra Linear e Métodos de Cálculo Numérico.
+#### • Desenvolvimento Web
 
 <div>
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
