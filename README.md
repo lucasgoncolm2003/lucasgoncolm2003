@@ -1,7 +1,6 @@
 # Lucas Gonçalves de Oliveira Martins
 #### 🖥️ - Técnico em Informática
 #### ⚡ - Graduando em Engenharia Elétrica
-#### 🔰 - Cabo da Reserva do Exército
 
 ####     Meu nome é Lucas e sou Técnico em Informática e atualmente faço o curso de graduação em Engenharia Elétrica. Busco aplicar os conhecimentos matemáticos e em engenharia na área da programação, área na qual me dedico a estudar e aprimorar meus conhecimentos cada vez mais. Alguns dos projetos que fiz trabalham com:
 
@@ -20,8 +19,8 @@
 <br>
 
 <div>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&langs_count=10&theme=dracula&layout=compact"/>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&layout=compact"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
