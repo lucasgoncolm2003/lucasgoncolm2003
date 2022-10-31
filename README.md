@@ -20,7 +20,7 @@
 
 <div>
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&layout=compact"/>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&langs_count=8&layout=compact"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
