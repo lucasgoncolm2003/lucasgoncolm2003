@@ -6,7 +6,7 @@
 <br>
 <div>
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&langs_count=8&layout=compact"/>
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&langs_count=9&layout=compact"/>
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
@@ -16,6 +16,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="center" alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
