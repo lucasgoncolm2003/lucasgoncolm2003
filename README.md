@@ -11,8 +11,8 @@
 <br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -30,8 +30,10 @@
  •  Inteligência Artificial ou A.I. <br>
  •  Data Mining ou Mineração de Dados <br>
  •  Ciência e Análise de Dados  <br>
+ •  Integração com Banco de Dados <br>
  •  Construção e Desenvolvimento de Gráficos <br>
  •  Álgebra Linear e Métodos de Cálculo Numérico <br>
+ •  Design Patterns <br>
  •  Desenvolvimento Web <br>
  •  Integração com APIs ou Web-Services <br>
  •  Web-Scraping <br>
