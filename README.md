@@ -6,11 +6,11 @@
 <br>
 <div>
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&langs_count=14&layout=compact"/>
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&theme=dracula&langs_count=16&layout=compact"/>
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
