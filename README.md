@@ -31,6 +31,7 @@
  •  Data Mining ou Mineração de Dados <br>
  •  Ciência e Análise de Dados  <br>
  •  Integração com Banco de Dados <br>
+ •  Circuitos Integrados com Arduino <br>
  •  Construção e Desenvolvimento de Gráficos <br>
  •  Álgebra Linear e Métodos de Cálculo Numérico <br>
  •  Design Patterns <br>
@@ -38,6 +39,7 @@
  •  Integração com APIs ou Web-Services <br>
  •  Web-Scraping <br>
  •  Automatização de Processos <br>
+ •  Aplicação de Conceitos de Circuitos Elétricos <br>
 <br>
 <div style="display: inline_block" align="center><br>
   <a href="https://www.linkedin.com/in/lucas-gonçalves-de-oliveira-martins-1092451b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
