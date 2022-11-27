@@ -1,6 +1,8 @@
 # Lucas Gonçalves de Oliveira Martins
-#### 🖥️ - Técnico em Informática
 #### ⚡ - Graduando em Engenharia Elétrica
+#### 🖥️ - Técnico em Informática
+#### 🔰 - Cabo da Reserva do Exército Brasileiro
+#### ⚪ - LSSWB (Lean Six Sigma White Belt)
 
 ####     Meu nome é Lucas e sou Técnico em Informática. Atualmente faço o curso de graduação em Engenharia Elétrica. Busco aplicar os conhecimentos matemáticos e em engenharia na área da programação, área na qual me dedico a estudar e aprimorar meus conhecimentos cada vez mais. Alguns dos projetos que fiz trabalham com:
 <br>
@@ -44,18 +46,3 @@
 <div style="display: inline_block" align="center><br>
   <a href="https://www.linkedin.com/in/lucas-gonçalves-de-oliveira-martins-1092451b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lucao_gom/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-<!--
-**lucasgoncolm2003/lucasgoncolm2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
