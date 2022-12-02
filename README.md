@@ -1,8 +1,8 @@
 # Lucas Gonçalves de Oliveira Martins
-#### ⚡ - Graduando em Engenharia Elétrica
-#### 🖥️ - Técnico em Informática
-#### 🔰 - Cabo da Reserva do Exército Brasileiro
-#### ⚪ - LSSWB (Lean Six Sigma White Belt)
+<b>⚡ - Graduando em Engenharia Elétrica </b><br>
+<b>🖥️ - Técnico em Informática </b><br>
+<b>🔰 - Cabo da Reserva do Exército Brasileiro </b><br>
+<b>⚪ - LSSWB (Lean Six Sigma White Belt) </b><br>
 
 ####     Meu nome é Lucas e sou Técnico em Informática. Atualmente faço o curso de graduação em Engenharia Elétrica. Busco aplicar os conhecimentos matemáticos e em engenharia na área da programação, área na qual me dedico a estudar e aprimorar meus conhecimentos cada vez mais. Alguns dos projetos que fiz trabalham com:
 <br>
