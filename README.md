@@ -33,7 +33,8 @@
  •  Data Mining ou Mineração de Dados <br>
  •  Ciência e Análise de Dados  <br>
  •  Integração com Banco de Dados <br>
- •  Circuitos com Sensores e Arduino <br>
+ •  Aplicação de Conceitos de Circuitos Integrados (CI) <br>
+ •  Utilização de Sensores e Arduino <br>
  •  Construção e Desenvolvimento de Gráficos <br>
  •  Álgebra Linear e Métodos de Cálculo Numérico <br>
  •  Design Patterns <br>
