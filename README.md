@@ -1,6 +1,7 @@
 # Lucas Gonçalves de Oliveira Martins
 <b>⚡ - Graduando em Engenharia Elétrica </b><br>
 <b>🖥️ - Técnico em Informática </b><br>
+<b>⛑️ - Cursando Técnico em Segurança do Trabalho </b><br>
 <b>🔰 - Cabo da Reserva do Exército Brasileiro </b><br>
 <b>⚪ - LSSWB (Lean Six Sigma White Belt) </b><br>
 
