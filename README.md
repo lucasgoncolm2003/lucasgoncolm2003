@@ -22,7 +22,10 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Express" height="30" width="40" src="https://user-images.githubusercontent.com/112359793/211154454-2fb3bd34-b80b-465a-bd01-a505c4df64ad.png"/>
+  <img align="center" alt="Nodemon" height="30" width="30" src="https://user-images.githubusercontent.com/112359793/211154649-3cc15e07-023b-452d-b626-4b5ee161ee69.png"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Express" height="40" width="40" src="https://user-images.githubusercontent.com/112359793/211154454-2fb3bd34-b80b-465a-bd01-a505c4df64ad.png"/>
   <img align="center" alt="Normalize" height="30" width="40" src="./normalize-seeklogo.svg"/>
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
