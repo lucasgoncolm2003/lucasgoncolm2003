@@ -45,7 +45,6 @@
  •  Utilização de Sensores e Arduino <br>
  •  Construção e Desenvolvimento de Gráficos <br>
  •  Álgebra Linear e Métodos de Cálculo Numérico <br>
- •  Design Patterns <br>
  •  Desenvolvimento Web <br>
  •  Integração com APIs ou Web-Services <br>
  •  Web-Scraping <br>
