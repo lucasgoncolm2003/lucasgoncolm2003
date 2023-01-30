@@ -9,7 +9,7 @@
 <br>
 <div>
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgoncolm2003&show_icons=true&theme=merko&count_private=true"/>
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&layout=compact&langs_count=20&theme=merko&count_private=true"/>
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoncolm2003&layout=compact&langs_count=21&theme=merko&count_private=true"/>
 </div>
 <br>
 <div style="display: inline_block" align="center"><br>
